@@ -36,11 +36,18 @@
 6. https://blog.kissmetrics.com/26-customer-development-resources/ – поможет провести полноценное интервью с пользователем
 7. https://www.nngroup.com/articles/which-ux-research-methods/ — методология пользовательских исследований
 
-### Styleguides 🏀
+### Platform guidelines 🏀
 
+#### Android Material Design
 1. https://material.google.com/ — гайдлайны к Material Design
+
+#### Apple iOS design
 2. https://developer.apple.com/ios/human-interface-guidelines/ — гайдлайны Apple для iOS
 3. Вольный конспект гайдлайнов Apple http://ivomynttinen.com/blog/ios-design-guidelines
+
+#### Microsoft Design
+1. https://developer.microsoft.com/en-us/windows/design
+2. [Introduction to Universal Windows Platform](https://msdn.microsoft.com/en-us/windows/uwp/layout/design-and-ui-intro)
 
 ## Tools 🛠
 
