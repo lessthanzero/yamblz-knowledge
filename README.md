@@ -63,7 +63,7 @@
 2. Инструмент для менеджмента плагинов в Скетче: http://sketchtoolbox.com/
 3. Авто-кнопки для Скетча: [раз](https://github.com/kenmoore/sketch-relabel-button), [два](https://github.com/fuggfuggfugg/sketch-dynamic-button-3.5).
 4. Дополнительные инструменты для работы с текстом: https://github.com/automat/sketch-text-tools 
-5. Плагин для заливки фона объекта картинкой из буфера обмена: https://github.com/ScottSavarie/Clipboard-Fill?ref=sketchhunt
+5. Плагин для заливки фона объекта картинкой из буфера обмена: https://github.com/ScottSavarie/Clipboard-Fill
 6. Автоматизация экспорта ассетов для разных платформ: https://github.com/GeertWille/sketch-export-assets
 
 ## Collections 🍿
