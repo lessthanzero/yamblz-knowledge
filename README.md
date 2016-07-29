@@ -37,6 +37,7 @@
 5. http://www.uxmatters.com/ — ещё один юзабилити-блог
 6. https://blog.kissmetrics.com/26-customer-development-resources/ – поможет провести полноценное интервью с пользователем
 7. https://www.nngroup.com/articles/which-ux-research-methods/ — методология пользовательских исследований
+8. https://guides.area17.com/design-techniques/ — рабочие гайдлайны агентства Area 17
 
 ### Platform guidelines 🏀
 
@@ -65,6 +66,8 @@
 10. http://principleformac.com — Principle
 11. http://tumult.com/hype/ — Hype
 12. https://facebook.github.io/origami/ — Origami
+13. http://nudge.it — инструмент для настройки пиксельных смещений в графических редакторах
+14. https://uxdesign.cc/create-ui-flows-using-sketch-and-framer-36b6552306b5#.nrubo27i3 — модуль Фреймера, упрощающий работу с экспортированными слоями и их анимацией
 
 ### Sketch plugins 💎
 
@@ -74,6 +77,11 @@
 4. Дополнительные инструменты для работы с текстом: https://github.com/automat/sketch-text-tools 
 5. Плагин для заливки фона объекта картинкой из буфера обмена: https://github.com/ScottSavarie/Clipboard-Fill
 6. Автоматизация экспорта ассетов для разных платформ: https://github.com/GeertWille/sketch-export-assets
+7. https://github.com/utom/sketch-measure — плагин для локальной работы со спецификациями
+
+### UI Kits 🍉
+
+1. https://avocode.com/guacamole/
 
 ## Collections 🍿
 
